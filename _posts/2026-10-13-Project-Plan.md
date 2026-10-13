@@ -9,8 +9,7 @@ tags: [plan]
 This is the Project Plan Document for ISKOftware's software engineering project: UP OFA - GIS WebApp. 
 
 
-You may download a copy of the document [here.](/assets/pdf/ISKOftwareProjectPlan.pdf)
-
+You may download a copy of the document [here]({{ '/assets/pdf/ISKOftwareProjectPlan.pdf' | relative_url }}).
 
 <iframe
   src="{{ '/assets/pdf/ISKOftwareProjectPlan.pdf' | relative_url }}"
