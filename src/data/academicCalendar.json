@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2025-2026",
+    "label": "AY 2025-2026",
+    "start_date": "2025-08-01",
+    "end_date": "2026-07-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2025-08-01",
+        "end_date": "2025-12-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2026-01-01",
+        "end_date": "2026-05-31"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2026-06-01",
+        "end_date": "2026-07-31"
+      }
+    ]
+  }
+]

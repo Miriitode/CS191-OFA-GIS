@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sample Academic Activity",
+    "description": "A sample activity used to test the GIS application.",
+    "location": "University of the Philippines Diliman",
+    "latitude": 14.6537,
+    "longitude": 121.0685,
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-15"
+  },
+  {
+    "id": 2,
+    "name": "Sample Campus Event",
+    "description": "Another sample record for testing map markers and date filtering.",
+    "location": "UP Diliman Campus",
+    "latitude": 14.6560,
+    "longitude": 121.0645,
+    "start_date": "2026-11-18",
+    "end_date": "2026-11-20"
+  },
+  {
+    "id": 3,
+    "name": "Sample Workshop",
+    "description": "A sample multi-day workshop.",
+    "location": "UP Diliman Campus",
+    "latitude": 14.6505,
+    "longitude": 121.0720,
+    "start_date": "2026-12-02",
+    "end_date": "2026-12-02"
+  }
+]
