@@ -1,3 +1,4 @@
+
 [
   {
     "id": 1,
@@ -28,5 +29,205 @@
     "longitude": 121.0720,
     "start_date": "2026-08-09",
     "end_date": "2026-08-09"
+  },
+  {
+    "id": 4,
+    "name": "Technology Innovation Summit",
+    "description": "A technology summit featuring discussions on digital transformation, artificial intelligence, and emerging technologies.",
+    "location": "SMX Convention Center, Pasay City",
+    "latitude": 14.5319,
+    "longitude": 120.9828,
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-16"
+  },
+  {
+    "id": 5,
+    "name": "National Research Conference",
+    "description": "A national conference bringing together researchers and academic professionals to present their latest studies.",
+    "location": "Philippine International Convention Center, Pasay City",
+    "latitude": 14.5515,
+    "longitude": 120.9838,
+    "start_date": "2026-11-20",
+    "end_date": "2026-11-21"
+  },
+  {
+    "id": 6,
+    "name": "Engineering Students Convention",
+    "description": "An academic gathering for engineering students featuring technical presentations and collaborative activities.",
+    "location": "University of Santo Tomas, Manila",
+    "latitude": 14.6091,
+    "longitude": 120.9896,
+    "start_date": "2026-12-03",
+    "end_date": "2026-12-04"
+  },
+  {
+    "id": 7,
+    "name": "Business Leadership Forum",
+    "description": "A leadership forum discussing entrepreneurship, business development, and organizational management.",
+    "location": "Makati Shangri-La, Makati City",
+    "latitude": 14.5524,
+    "longitude": 121.0245,
+    "start_date": "2026-12-08",
+    "end_date": "2026-12-08"
+  },
+  {
+    "id": 8,
+    "name": "Digital Arts and Multimedia Workshop",
+    "description": "A creative workshop covering digital illustration, animation, multimedia production, and visual communication.",
+    "location": "De La Salle University, Manila",
+    "latitude": 14.5649,
+    "longitude": 120.9934,
+    "start_date": "2027-01-12",
+    "end_date": "2027-01-13"
+  },
+  {
+    "id": 9,
+    "name": "Public Administration Symposium",
+    "description": "A symposium focused on public governance, policy development, and public sector innovation.",
+    "location": "Ateneo de Manila University, Quezon City",
+    "latitude": 14.6407,
+    "longitude": 121.0776,
+    "start_date": "2027-01-20",
+    "end_date": "2027-01-21"
+  },
+  {
+    "id": 10,
+    "name": "Science and Technology Exhibition",
+    "description": "An exhibition showcasing scientific discoveries, student innovations, and technology-based research projects.",
+    "location": "The Mind Museum, Taguig City",
+    "latitude": 14.5514,
+    "longitude": 121.0503,
+    "start_date": "2027-02-05",
+    "end_date": "2027-02-07"
+  },
+  {
+    "id": 11,
+    "name": "Environmental Awareness Seminar",
+    "description": "An educational seminar promoting environmental protection, sustainability, and climate change awareness.",
+    "location": "Rizal Park, Manila",
+    "latitude": 14.5832,
+    "longitude": 120.9785,
+    "start_date": "2027-02-15",
+    "end_date": "2027-02-15"
+  },
+  {
+    "id": 12,
+    "name": "Information Technology Conference",
+    "description": "A professional conference covering software development, cybersecurity, networking, and information systems.",
+    "location": "World Trade Center Metro Manila, Pasay City",
+    "latitude": 14.5490,
+    "longitude": 120.9870,
+    "start_date": "2027-03-03",
+    "end_date": "2027-03-04"
+  },
+  {
+    "id": 13,
+    "name": "Regional Academic Forum",
+    "description": "An academic forum encouraging collaboration among universities and higher education institutions in Central Luzon.",
+    "location": "Holy Angel University, Angeles City, Pampanga",
+    "latitude": 15.1472,
+    "longitude": 120.5906,
+    "start_date": "2027-03-15",
+    "end_date": "2027-03-16"
+  },
+  {
+    "id": 14,
+    "name": "University Research Colloquium",
+    "description": "A research presentation event featuring undergraduate and graduate research projects from different academic disciplines.",
+    "location": "University of the Philippines Los Baños, Laguna",
+    "latitude": 14.1652,
+    "longitude": 121.2435,
+    "start_date": "2027-04-06",
+    "end_date": "2027-04-07"
+  },
+  {
+    "id": 15,
+    "name": "Regional Technology Workshop",
+    "description": "A hands-on workshop introducing participants to programming, data analytics, and digital technology applications.",
+    "location": "Cebu Institute of Technology University, Cebu City",
+    "latitude": 10.2946,
+    "longitude": 123.8817,
+    "start_date": "2027-04-20",
+    "end_date": "2027-04-21"
+  },
+  {
+    "id": 16,
+    "name": "Mindanao Education Conference",
+    "description": "An educational conference discussing improvements in teaching strategies, educational technology, and institutional development.",
+    "location": "Ateneo de Davao University, Davao City",
+    "latitude": 7.0731,
+    "longitude": 125.6128,
+    "start_date": "2027-05-10",
+    "end_date": "2027-05-11"
+  },
+  {
+    "id": 17,
+    "name": "International Academic Exchange",
+    "description": "An international academic exchange program focused on cross-cultural learning and university research collaboration.",
+    "location": "National University of Singapore, Singapore",
+    "latitude": 1.2966,
+    "longitude": 103.7764,
+    "start_date": "2027-05-20",
+    "end_date": "2027-05-24"
+  },
+  {
+    "id": 18,
+    "name": "Global Technology Symposium",
+    "description": "An international symposium exploring technological advancements, innovation strategies, and global research initiatives.",
+    "location": "Tokyo International Forum, Tokyo, Japan",
+    "latitude": 35.6768,
+    "longitude": 139.7635,
+    "start_date": "2027-06-02",
+    "end_date": "2027-06-04"
+  },
+  {
+    "id": 19,
+    "name": "International Research Conference",
+    "description": "A global research conference featuring academic presentations and discussions on science, engineering, and social development.",
+    "location": "Hong Kong Convention and Exhibition Centre, Hong Kong",
+    "latitude": 22.2825,
+    "longitude": 114.1732,
+    "start_date": "2027-06-15",
+    "end_date": "2027-06-17"
+  },
+  {
+    "id": 20,
+    "name": "Geographic Information Systems Workshop",
+    "description": "A technical workshop covering spatial data analysis, geospatial visualization, and GIS application development.",
+    "location": "Miriam College, Quezon City",
+    "latitude": 14.6390,
+    "longitude": 121.0780,
+    "start_date": "2027-07-05",
+    "end_date": "2027-07-06"
+  },
+  {
+    "id": 21,
+    "name": "Cultural Heritage Research Forum",
+    "description": "A research forum examining Philippine history, cultural heritage preservation, and historical documentation.",
+    "location": "National Museum of Anthropology, Manila",
+    "latitude": 14.5878,
+    "longitude": 120.9780,
+    "start_date": "2027-07-18",
+    "end_date": "2027-07-18"
+  },
+  {
+    "id": 22,
+    "name": "Sustainable Development Conference",
+    "description": "A conference discussing sustainable urban development, renewable energy, and environmental policy.",
+    "location": "Baguio Convention and Cultural Center, Baguio City",
+    "latitude": 16.4088,
+    "longitude": 120.5970,
+    "start_date": "2027-08-09",
+    "end_date": "2027-08-10"
+  },
+  {
+    "id": 23,
+    "name": "International Computer Science Workshop",
+    "description": "An international workshop featuring discussions on computer science, software engineering, and emerging computing technologies.",
+    "location": "University of Malaya, Kuala Lumpur, Malaysia",
+    "latitude": 3.1200,
+    "longitude": 101.6530,
+    "start_date": "2027-08-22",
+    "end_date": "2027-08-24"
   }
 ]

@@ -1,5 +1,213 @@
 [
   {
+    "id": "2017-2018",
+    "label": "AY 2017-2018",
+    "start_date": "2017-08-01",
+    "end_date": "2018-07-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2017-08-01",
+        "end_date": "2017-12-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2018-01-01",
+        "end_date": "2018-05-31"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2018-06-01",
+        "end_date": "2018-07-31"
+      }
+    ]
+  },
+  {
+    "id": "2018-2019",
+    "label": "AY 2018-2019",
+    "start_date": "2018-08-01",
+    "end_date": "2019-07-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2018-08-01",
+        "end_date": "2018-12-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2019-01-01",
+        "end_date": "2019-05-31"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2019-06-01",
+        "end_date": "2019-07-31"
+      }
+    ]
+  },
+  {
+    "id": "2019-2020",
+    "label": "AY 2019-2020",
+    "start_date": "2019-08-01",
+    "end_date": "2020-07-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2019-08-01",
+        "end_date": "2019-12-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2020-01-01",
+        "end_date": "2020-05-31"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2020-06-01",
+        "end_date": "2020-07-31"
+      }
+    ]
+  },
+  {
+    "id": "2020-2021",
+    "label": "AY 2020-2021",
+    "start_date": "2020-09-01",
+    "end_date": "2021-08-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2020-09-01",
+        "end_date": "2021-01-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2021-02-01",
+        "end_date": "2021-06-30"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2021-07-01",
+        "end_date": "2021-08-31"
+      }
+    ]
+  },
+  {
+    "id": "2021-2022",
+    "label": "AY 2021-2022",
+    "start_date": "2021-09-01",
+    "end_date": "2022-08-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2021-09-01",
+        "end_date": "2022-01-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2022-02-01",
+        "end_date": "2022-05-31"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2022-06-01",
+        "end_date": "2022-08-31"
+      }
+    ]
+  },
+  {
+    "id": "2022-2023",
+    "label": "AY 2022-2023",
+    "start_date": "2022-09-01",
+    "end_date": "2023-08-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2022-09-01",
+        "end_date": "2023-01-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2023-02-01",
+        "end_date": "2023-06-30"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2023-07-01",
+        "end_date": "2023-08-31"
+      }
+    ]
+  },
+  {
+    "id": "2023-2024",
+    "label": "AY 2023-2024",
+    "start_date": "2023-09-01",
+    "end_date": "2024-08-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2023-09-01",
+        "end_date": "2024-01-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2024-02-01",
+        "end_date": "2024-06-30"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2024-07-01",
+        "end_date": "2024-08-31"
+      }
+    ]
+  },
+  {
+    "id": "2024-2025",
+    "label": "AY 2024-2025",
+    "start_date": "2024-08-01",
+    "end_date": "2025-07-31",
+    "semesters": [
+      {
+        "id": "first",
+        "label": "First Semester",
+        "start_date": "2024-08-01",
+        "end_date": "2024-12-31"
+      },
+      {
+        "id": "second",
+        "label": "Second Semester",
+        "start_date": "2025-01-01",
+        "end_date": "2025-05-31"
+      },
+      {
+        "id": "midyear",
+        "label": "Midyear",
+        "start_date": "2025-06-01",
+        "end_date": "2025-07-31"
+      }
+    ]
+  },
+  {
     "id": "2025-2026",
     "label": "AY 2025-2026",
     "start_date": "2025-08-01",
